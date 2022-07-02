@@ -1,6 +1,4 @@
-name: glue-dispatch
 
-on: push
 ---
 AWSTemplateFormatVersion: '2010-09-09'
 # Sample CFN YAML to demonstrate creating a crawler
